@@ -38,7 +38,7 @@ This project was developed as part of the **Artificial Intelligence Internship P
 Task2-TicTacToe-AI/
 │
 ├── tic_tac_toe.py
-├── tic_tac_toe_demo.mp4
+├── tic_tac_toe_demo.mov
 └── README.md
 ```
 
